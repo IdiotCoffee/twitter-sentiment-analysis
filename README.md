@@ -1,3 +1,5 @@
+### -----ARCHIVED: This project was archived as it was a university course related project ---
+
 # Tweet Sentiment Analysis
 
 This project is a sentiment analysis model designed to classify tweets as either positive or negative. The model uses the Porter Stemmer for preprocessing the tweets and is trained on a dataset from Kaggle.
